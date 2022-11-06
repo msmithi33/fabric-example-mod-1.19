@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "#": {
-      "item": "tutmod:mythril_ingot"
+      "tag": "c:mythril_ingots"
     }
   },
   "pattern": [

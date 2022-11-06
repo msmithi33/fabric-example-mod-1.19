@@ -3,6 +3,7 @@
   "item.tutmod.mythril_nugget": "Mythril Nugget",
   "item.tutmod.mythril_raw": "Raw Mythril",
   "item.tutmod.dowsing_rod": "Dowsing Rod",
+  "item.tutmod.grape": "Grape",
 
   "block.tutmod.mythril_block": "Mythril Block",
   "block.tutmod.mythril_ore": "Mythril Ore",
@@ -11,7 +12,11 @@
   "block.tutmod.mythril_ore_netherrack": "Netherrack Mythril Ore",
 
   "itemGroup.tutmod.mythril": "Mythril Tutorial Tab",
-  "item.tutmod.dowsing_rod.no_valuables": "No valuable items found."
 
+  "item.tutmod.dowsing_rod.no_valuables": "No valuable items found",
+  "item.tutmod.dowsing_rod.tooltip.shift" : "Right Click to find valuables" ,
+  "item.tutmod.dowsing_rod.tooltip" : "Press §eSHIFT§r for more Information",
+
+  "tooltip.tutmod.mythril_block" : "A Magical Block!"
 
 }

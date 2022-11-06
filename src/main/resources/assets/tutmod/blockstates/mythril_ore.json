@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "" : {
+      "model":  "tutmod:block/mythril_ore"
+    }
+  }
+
+}

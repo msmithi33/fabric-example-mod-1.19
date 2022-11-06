@@ -1,6 +1,8 @@
 {
   "variants": {
-    "" : { "model":  "tutmod:block/mythril_block" }
+    "" : {
+      "model":  "tutmod:block/mythril_block"
+    }
   }
 
 }
