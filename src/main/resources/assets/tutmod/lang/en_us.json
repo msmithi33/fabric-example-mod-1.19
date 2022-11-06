@@ -17,6 +17,11 @@
   "item.tutmod.dowsing_rod.tooltip.shift" : "Right Click to find valuables" ,
   "item.tutmod.dowsing_rod.tooltip" : "Press §eSHIFT§r for more Information",
 
-  "tooltip.tutmod.mythril_block" : "A Magical Block!"
-
+  "tooltip.tutmod.mythril_block" : "A Magical Block!",
+  
+  "block.tutmod.mythril_button": "Mythril Button",
+  "block.tutmod.mythril_pressure_plate": "Mythril Pressure Plate",
+  "block.tutmod.mythril_fence": "Mythril Fence",
+  "block.tutmod.mythril_wall": "Mythril Wall",
+  "block.tutmod.mythril_fence_gate": "Mythril Fence Gate"
 }
