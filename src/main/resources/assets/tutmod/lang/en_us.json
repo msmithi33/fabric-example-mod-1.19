@@ -2,11 +2,16 @@
   "item.tutmod.mythril_ingot": "Mythril Ingot",
   "item.tutmod.mythril_nugget": "Mythril Nugget",
   "item.tutmod.mythril_raw": "Raw Mythril",
+  "item.tutmod.dowsing_rod": "Dowsing Rod",
 
   "block.tutmod.mythril_block": "Mythril Block",
   "block.tutmod.mythril_ore": "Mythril Ore",
   "block.tutmod.mythril_block_raw": "Raw Mythril Block",
   "block.tutmod.mythril_ore_deepslate": "Deeplslate Mythril Ore",
-  "block.tutmod.mythril_ore_netherrack": "Netherrack Mythril Ore"
+  "block.tutmod.mythril_ore_netherrack": "Netherrack Mythril Ore",
+
+  "itemGroup.tutmod.mythril": "Mythril Tutorial Tab",
+  "item.tutmod.dowsing_rod.no_valuables": "No valuable items found."
+
 
 }
